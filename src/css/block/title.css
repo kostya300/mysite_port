@@ -1,0 +1,6 @@
+.title {
+	text-transform: uppercase;
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+}
